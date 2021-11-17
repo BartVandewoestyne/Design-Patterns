@@ -1,6 +1,9 @@
 /*
  * References:
  *
+ *   [wikipedia] Non-virtual interface pattern
+ *     https://en.wikipedia.org/wiki/Non-virtual_interface_pattern
+ *
  *   [morecppidioms] More C++ Idioms/Non-Virtual Interface
  *     https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms/Non-Virtual_Interface
  *
