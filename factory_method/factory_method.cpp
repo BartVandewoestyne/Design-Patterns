@@ -1,6 +1,9 @@
 /*
  * References:
  *
+ *   [boccara20220605] Design Patterns VS Design Principles: Factory method
+ *     https://www.fluentcpp.com/2022/06/05/design-patterns-vs-design-principles-factory-method/
+ *
  *   [refactoring_guru] Factory Method
  *     https://refactoring.guru/design-patterns/factory-method/
  *
